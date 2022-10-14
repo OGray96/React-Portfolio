@@ -1,0 +1,24 @@
+.email{
+    width:30%;
+    padding-left: 25px;
+    
+}
+
+.user-name{
+    width:30%;
+    padding-left: 25px;
+}
+
+.text{
+    height: 200px;
+    padding-left: 25px;
+}
+
+.text-area{
+    width:60%;
+    padding-left: 25px;
+}
+
+.button{
+    margin-left: 25px;
+}
