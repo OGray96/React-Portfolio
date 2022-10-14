@@ -1,0 +1,20 @@
+.navbar {
+    background: #017696;
+    height: 60px;
+}
+
+#Oliver{
+    color: rgb(246, 243, 239);
+    font-size: 30px;
+}
+
+.nav-tabs .nav-link{
+    color: rgb(246, 243, 239);
+}
+
+
+.active{
+    color:#017696 ;
+}
+
+

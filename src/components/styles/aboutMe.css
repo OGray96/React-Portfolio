@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    padding-top: 25px;
+}
+
+.oliver-image{
+    height: 250px;
+    margin-left: -45px;
+}
+
+.about-text{
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+}
+
+.welcome-text{
+    padding-left: 20px;
+    padding-top:10px
+}
