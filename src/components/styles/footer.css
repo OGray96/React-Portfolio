@@ -2,3 +2,13 @@
     padding-top: 25px;
     padding-left: 25px;
 }
+
+.images{
+    height: 100px;
+}
+
+.image-container{
+    margin-left: 40%;
+    display: flex;
+    
+}
