@@ -1,24 +1,49 @@
+.error-text{
+    margin-left: 25px;
+    color: red;
+    margin-top: 5px;
+}
+
+h3{
+    margin-left: 25px; 
+}
 .email{
     width:30%;
-    padding-left: 25px;
-    
+    margin-left: 25px;
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #017696;
 }
 
 .user-name{
     width:30%;
-    padding-left: 25px;
+    margin-left: 25px;
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #017696;
 }
 
-.text{
-    height: 200px;
-    padding-left: 25px;
-}
 
 .text-area{
     width:60%;
-    padding-left: 25px;
+    margin-left: 25px;
+    display: block;
+    margin-bottom: 10px;
+    height: 200px;
+    border-radius: 5px;
+    border: 1px solid #017696;
 }
 
 .button{
     margin-left: 25px;
+    border-radius: 5px;
+    background-color: #017696;
+    color: white;
+    border: 1px solid #017696;
+}
+
+.button:hover{
+    color: black; 
 }
