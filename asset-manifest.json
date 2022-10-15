@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.02e2ddda.css",
+    "main.js": "/React-Portfolio/static/js/main.cbdde57c.js",
+    "static/media/portfolio-2.png": "/React-Portfolio/static/media/portfolio-2.d2a480bc4b567f93c53a.png",
+    "static/media/developer-image.png": "/React-Portfolio/static/media/developer-image.65b3fdc2c1f66027e412.png",
+    "static/media/portfolio-1.png": "/React-Portfolio/static/media/portfolio-1.5b83eae6cfc3e154e4fe.png",
+    "static/media/portfolio-5.png": "/React-Portfolio/static/media/portfolio-5.4e0c655054553f48d774.png",
+    "static/media/resume.pdf": "/React-Portfolio/static/media/resume.f3af1d0b03fdbf03a5e1.pdf",
+    "static/media/portfolio-3.jpeg": "/React-Portfolio/static/media/portfolio-3.64d962f6ab20cc3c13ea.jpeg",
+    "static/media/portfolio-6.png": "/React-Portfolio/static/media/portfolio-6.bace01f13844f5747700.png",
+    "static/media/portfolio-4.jpeg": "/React-Portfolio/static/media/portfolio-4.0ea9346291a1ebe928f3.jpeg",
+    "static/media/github-logo.png": "/React-Portfolio/static/media/github-logo.83b28c9c9e607e309ee8.png",
+    "static/media/linkedin-logo.png": "/React-Portfolio/static/media/linkedin-logo.a0dbb6878c2de21fcf83.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.02e2ddda.css.map": "/React-Portfolio/static/css/main.02e2ddda.css.map",
+    "main.cbdde57c.js.map": "/React-Portfolio/static/js/main.cbdde57c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e2ddda.css",
+    "static/js/main.cbdde57c.js"
+  ]
+}
